@@ -14,7 +14,7 @@ read -p "Submit Username (bebas): " RPC_USER
 read -sp "Submit Password: " RPC_PASSWORD
 echo
 read -p "Submit IPVPSMU (Contoh http://ipvps:5000): " RPC_URL
-read -p "Start Block (isi 45000): " START_HEIGHT
+read -p "Start Block (isi 42000): " START_HEIGHT
 read -p "Nama Wallet: " WALLET_NAME
 
 BITCOIN_CORE_REPO="https://github.com/mocacinno/btc_testnet4"
