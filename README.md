@@ -127,6 +127,7 @@ screen -S rainbow
   <img height="300" height="auto" src="https://github.com/sipalingnode/rainbow-indexer-testnet/blob/main/log.png">
 </p>
 
+**Kalo dah jalan tinggal `CTRL+AD`**
 ### Cek Principal ID & Submit on Website
 ```
 nano ~/rbo_indexer_testnet/identity/principal.json
