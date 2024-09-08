@@ -15,10 +15,6 @@
 | Penyimpanan  | 50GB Storage |
 | Internet | Stable internet connection |
 
-## Auto Install
-```
-wget -O rbo.sh https://raw.githubusercontent.com/sipalingnode/rainbow-indexer-testnet/main/rbo.sh && chmod +x rbo.sh && ./rbo.sh
-```
 ## Manual Instalation
 
 ### Instal Docker
